@@ -1,0 +1,8 @@
+[fuzz.metrics]
+enabled = true
+
+
+[[fuzz.programs]]
+address = "FsL6UpQExpY4ZqLosQFMU9RFiictPhss63nnxvf61djv"
+program = "../target/deploy/daily_idea_spark.so"
+ 

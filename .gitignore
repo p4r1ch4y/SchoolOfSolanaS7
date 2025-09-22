@@ -1,8 +1,19 @@
 /task4-p4r1ch4y-test/
 /task4_schoolofsolana.tar
 /task3-p4r1ch4y_donee
+/task3-p4r1ch4y_donee
 /node_modules
 /.idea
 
 yarn.lock
 /task4-p4r1ch4y/SOLUTION_BACKUP.md
+
+# Task ignores
+**/target/
+**/Cargo.lock
+**/.anchor
+**/.DS_Store
+**/*.rs.bk
+**/node_modules
+**/test-ledger
+**/.yarn
